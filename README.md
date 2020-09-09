@@ -1,6 +1,6 @@
 # Preditctive-Modelling---Advanced-Regression-Techniques-Regularizations
 
-Code for Kaggle Competition - Competition Name: House Prices – Advanced Regression Techniques competition
+Code for Kaggle Competition - Competition Name: House Prices – Advanced Regression Techniques competition.
 I have used advanced regression techniques like lasso (Regularization technique) to predict the house prices.
 
 Kaggle describes this competition as follows:
